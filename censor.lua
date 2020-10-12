@@ -1,6 +1,5 @@
 -------Script by DrFeelgood for Izba Wytrzezwien
 -------Contact: thewhitewizard9001@gmail.com
---No brackets, no semicolons, no basic operators and arrays starting at 1? I feel sorry for people who use LUA every day.
 explosive_words = {
         "kurwa", "jebany", "jebac", "chuj", "fuck"
 }
